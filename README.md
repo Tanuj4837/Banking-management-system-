@@ -1,1 +1,1 @@
-# Banking-management-system-
+A Bank Management Syatem Based On Concepts Of Object Oriented Principles made in C++ which implements the functionality performed in a bank realted to a bank account and which keeps the track of transactions.
